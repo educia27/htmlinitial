@@ -1,0 +1,23 @@
+body {
+  background-color: yellow;
+  text-align: left
+}
+
+#green {
+   color: green;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+.cool-text {
+  text-align: center;
+  color: blue;
+}
+
+#swappin {
+   color: purple;
+}
+
+
